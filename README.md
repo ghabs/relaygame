@@ -1,5 +1,7 @@
 ## Relay Game
 
+**[Sign up here]("https://goo.gl/forms/rYoLcsrj7hPIt0hZ2")** 
+
 ### Overview
 
 The Relay Game is a collaborative programming experiment, designed to see how groups of people with limited time can asynchronously work together to factor and solve problems.
