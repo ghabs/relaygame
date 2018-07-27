@@ -1,5 +1,3 @@
-## Relay Game
-
 **[Sign up here]("https://goo.gl/forms/rYoLcsrj7hPIt0hZ2")** 
 
 ### Overview
