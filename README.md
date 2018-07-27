@@ -1,4 +1,4 @@
-**[Sign up here]("https://goo.gl/forms/rYoLcsrj7hPIt0hZ2")** 
+**[Sign up here](https://goo.gl/forms/rYoLcsrj7hPIt0hZ2)** 
 
 ### Overview
 
