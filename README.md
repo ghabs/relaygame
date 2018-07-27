@@ -25,3 +25,6 @@ At the end of the ten minute block you'll submit your notes and code, and when t
 - You can use any external tools you want, though you may not explicitly google search for the answer to the problem.
    - Ex. Searching for how to use Sets in Python is good, searching for the specific problem posed to you is bad.
    
+## Misc
+
+Initial idea and proposal by Buck Shlegeris
